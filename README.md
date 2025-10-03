@@ -1,6 +1,6 @@
 # comp163---5-assignment
 had to change the name bc i had to do this multiple times 
-This repository contains solutions to the three loop mastery challenges for COMP 163 Assignment 5, each demonstrating different loop structures (while, for, and nested for loops).
+
 
 Challenge 1 (Collatz Conjecture):
 
